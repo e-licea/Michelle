@@ -35,6 +35,7 @@ html{
     display: flex;
     justify-content: center;
     font-family: 'Roboto', sans-serif;
+    padding-top: 3%;
 }
 
 body{
